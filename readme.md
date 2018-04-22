@@ -2,6 +2,7 @@
 
 This is a sample application for the Learning Flask course by Packt Publishing. Check out the [live app here](http://tranquil-ridge-5048.herokuapp.com/).
 
+https://agile-thicket-96947.herokuapp.com/
 ## Cloning the repo
 
 First clone this repo by running
@@ -9,6 +10,7 @@ First clone this repo by running
 ```bash
 $ git clone https://github.com/lpolepeddi/learning-flask.git
 ```
+https://github.com/shubhav/learning-flask.git
 
 Then `cd` into each folder to see what the code looks like at the end of that section in the course. For example, to see and run the code at Section 2, type
 
